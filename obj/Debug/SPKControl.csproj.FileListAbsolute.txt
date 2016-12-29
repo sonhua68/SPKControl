@@ -1,0 +1,5 @@
+E:\Lap Trinh\SPKControl\SPKControl\bin\Debug\SPKControl.dll
+E:\Lap Trinh\SPKControl\SPKControl\bin\Debug\SPKControl.pdb
+E:\Lap Trinh\SPKControl\SPKControl\obj\Debug\SPKControl.csprojResolveAssemblyReference.cache
+E:\Lap Trinh\SPKControl\SPKControl\obj\Debug\SPKControl.dll
+E:\Lap Trinh\SPKControl\SPKControl\obj\Debug\SPKControl.pdb
